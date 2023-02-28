@@ -1,0 +1,7 @@
+C:\Users\molka.mrad\source\repos\MyWebApplication\MyWebApplication\obj\Release\net7.0\PubTmp\Out\MyWebApplication.exe
+C:\Users\molka.mrad\source\repos\MyWebApplication\MyWebApplication\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\molka.mrad\source\repos\MyWebApplication\MyWebApplication\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\molka.mrad\source\repos\MyWebApplication\MyWebApplication\obj\Release\net7.0\PubTmp\Out\MyWebApplication.dll
+C:\Users\molka.mrad\source\repos\MyWebApplication\MyWebApplication\obj\Release\net7.0\PubTmp\Out\MyWebApplication.deps.json
+C:\Users\molka.mrad\source\repos\MyWebApplication\MyWebApplication\obj\Release\net7.0\PubTmp\Out\MyWebApplication.runtimeconfig.json
+C:\Users\molka.mrad\source\repos\MyWebApplication\MyWebApplication\obj\Release\net7.0\PubTmp\Out\MyWebApplication.pdb
